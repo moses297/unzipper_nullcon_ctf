@@ -1,1 +1,3 @@
-# unzipper_nullcon_ctf
+# Unzipper
+
+Repository to unzip files
